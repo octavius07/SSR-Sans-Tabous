@@ -1,0 +1,20 @@
+body {
+    background-image: url(photodecouverture.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.button{
+    background-image: url('photodecouverture.jpg');
+}
+
+.container {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.column-container{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
